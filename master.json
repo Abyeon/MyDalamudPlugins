@@ -3,7 +3,7 @@
     "Author": "Abyeon",
     "Name": "Racingway",
     "InternalName": "Racingway",
-    "AssemblyVersion": "0.0.4.1",
+    "AssemblyVersion": "0.0.4.2",
     "Description": "A simple plugin for timing, logging, and ranking players times for your jumping puzzles!",
     "ApplicableVersion": "any",
     "Tags": [
@@ -21,8 +21,8 @@
     "AcceptsFeedback": true,
     "IconUrl": "https://raw.githubusercontent.com/Abyeon/Racingway/master/icon.png",
     "DownloadCount": -1,
-    "DownloadLinkInstall": "https://github.com/Abyeon/Racingway/releases/download/v0.0.4.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Abyeon/Racingway/releases/download/v0.0.4.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Abyeon/Racingway/releases/download/v0.0.4.1/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Abyeon/Racingway/releases/download/v0.0.4.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Abyeon/Racingway/releases/download/v0.0.4.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Abyeon/Racingway/releases/download/v0.0.4.2/latest.zip"
   }
 ]
