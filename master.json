@@ -3,8 +3,8 @@
     "Author": "Abyeon",
     "Name": "GameSenseXIV",
     "InternalName": "GameSenseXIV",
-    "AssemblyVersion": "0.0.0.1",
-    "Description": "Only adds autoclipping at the moment.",
+    "AssemblyVersion": "0.0.0.3",
+    "Description": "SteelSeries GameSense support for XIV.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Abyeon/GameSenseXIV",
     "Tags": [
@@ -22,7 +22,7 @@
     "LoadPriority": 0,
     "Punchline": "Add support to SteelSeries GameSense!",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Abyeon/GameSenseXIV/releases/download/v0.0.0.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Abyeon/GameSenseXIV/releases/download/v0.0.0.1/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Abyeon/GameSenseXIV/releases/download/v0.0.0.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Abyeon/GameSenseXIV/releases/download/v0.0.0.3/latest.zip"
   }
 ]
