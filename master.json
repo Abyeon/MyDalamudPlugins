@@ -3,7 +3,7 @@
     "Author": "Abyeon",
     "Name": "GameSenseXIV",
     "InternalName": "GameSenseXIV",
-    "AssemblyVersion": "0.0.0.3",
+    "AssemblyVersion": "0.0.0.5",
     "Description": "SteelSeries GameSense support for XIV.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Abyeon/GameSenseXIV",
@@ -22,7 +22,7 @@
     "LoadPriority": 0,
     "Punchline": "Add support to SteelSeries GameSense!",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Abyeon/GameSenseXIV/releases/download/v0.0.0.3/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Abyeon/GameSenseXIV/releases/download/v0.0.0.3/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Abyeon/GameSenseXIV/releases/download/v0.0.0.5/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Abyeon/GameSenseXIV/releases/download/v0.0.0.5/latest.zip"
   }
 ]
