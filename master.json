@@ -13,7 +13,7 @@
       "Moments",
       "Autoclip",
       "Util",
-      "Abe"
+      "Abyeon"
     ],
     "DalamudApiLevel": 12,
     "LoadRequiredState": 0,
@@ -24,5 +24,28 @@
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/Abyeon/GameSenseXIV/releases/download/v0.0.0.6/latest.zip",
     "DownloadLinkTesting": "https://github.com/Abyeon/GameSenseXIV/releases/download/v0.0.0.6/latest.zip"
+  },
+  {
+    "Author": "Abyeon",
+    "Name": "WrongWarpFinder",
+    "InternalName": "WrongWarpFinder",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "A quick plugin to find Wrong Warps using Racingway rendering tools.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Wrongwarp",
+      "Oob",
+      "Abyeon",
+      "Racingway"
+    ],
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Find Wrong Warps quick!",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Abyeon/WrongWarpFinder/releases/download/v0.0.01/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Abyeon/WrongWarpFinder/releases/download/v0.0.01/latest.zip"
   }
 ]
