@@ -48,5 +48,22 @@
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/Abyeon/WrongWarpFinder/releases/download/v0.0.0.5/latest.zip",
     "DownloadLinkTesting": "https://github.com/Abyeon/WrongWarpFinder/releases/download/v0.0.0.5/latest.zip"
+  },
+  {
+    "Author": "Bluefissure",
+    "Name": "HousingPos",
+    "Description": "Automatically save/load the positions of housing furnitures.",
+    "InternalName": "HousingPos",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Bluefissure/HousingPos",
+    "Tags": ["bluefissure", "housing"],
+    "Punchline": "A housing tool",
+    "DalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "DownloadLinkInstall": "https://github.com/Abyeon/HousingPos/releases/download/v1.3.2.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Abyeon/HousingPos/releases/download/v1.3.2.0/latest.zip"
   }
 ]
