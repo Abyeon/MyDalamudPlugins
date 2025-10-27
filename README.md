@@ -8,6 +8,7 @@ A custom dalamud repository for my plugins.
 ## Contains:
 + [GameSenseXIV](https://github.com/Abyeon/GameSenseXIV)
 + [WrongWarpFinder](https://github.com/Abyeon/WrongWarpFinder)
++ [HousingPos (Clone of Bluefissure's tool)](https://github.com/Abyeon/HousingPos)
 
 ## To use:
 1. Have Dalamud installed
