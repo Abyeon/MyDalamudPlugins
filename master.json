@@ -54,9 +54,9 @@
     "Name": "HousingPos",
     "Description": "Automatically save/load the positions of housing furnitures.",
     "InternalName": "HousingPos",
-    "AssemblyVersion": "0.0.0.5",
+    "AssemblyVersion": "1.3.2.0",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Bluefissure/HousingPos",
+    "RepoUrl": "https://github.com/Abyeon/HousingPos",
     "Tags": ["bluefissure", "housing"],
     "Punchline": "A housing tool",
     "DalamudApiLevel": 13,
@@ -66,5 +66,5 @@
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/Abyeon/HousingPos/releases/download/v1.3.2.0/latest.zip",
     "DownloadLinkTesting": "https://github.com/Abyeon/HousingPos/releases/download/v1.3.2.0/latest.zip"
-  }
+  },
 ]
