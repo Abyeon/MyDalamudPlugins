@@ -59,7 +59,7 @@
     "RepoUrl": "https://github.com/Abyeon/HousingPos",
     "Tags": ["bluefissure", "housing"],
     "Punchline": "A housing tool",
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 14.0.1,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
