@@ -6,7 +6,7 @@
 A custom dalamud repository for my plugins.
 
 ## Contains:
-+ [GameSenseXIV](https://github.com/Abyeon/GameSenseXIV)
++ ~~[GameSenseXIV](https://github.com/Abyeon/GameSenseXIV)~~ Currently Outdated
 + [WrongWarpFinder](https://github.com/Abyeon/WrongWarpFinder)
 + [HousingPos (Clone of Bluefissure's tool)](https://github.com/Abyeon/HousingPos)
 
