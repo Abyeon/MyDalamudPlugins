@@ -31,7 +31,7 @@
     "Name": "WrongWarpFinder",
     "InternalName": "WrongWarpFinder",
     "AssemblyVersion": "0.0.1.7",
-    "TestingAssemblyVersion:" "0.0.1.7",
+    "TestingAssemblyVersion": "0.0.1.7",
     "Description": "A quick plugin to find Wrong Warps using Racingway rendering tools.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -58,7 +58,7 @@
     "Description": "Automatically save/load the positions of housing furnitures.",
     "InternalName": "HousingPos",
     "AssemblyVersion": "1.3.2.7",
-    "TestingAssemblyVersion:" "1.3.2.7",
+    "TestingAssemblyVersion": "1.3.2.7",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Abyeon/HousingPos",
     "Tags": ["bluefissure", "housing"],
