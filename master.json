@@ -16,6 +16,7 @@
       "Abyeon"
     ],
     "DalamudApiLevel": 12,
+    "TestingDalamudApiLevel": 12,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -40,6 +41,7 @@
       "UI"
     ],
     "DalamudApiLevel": 14,
+    "TestingDalamudApiLevel": 14,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -60,6 +62,7 @@
     "Tags": ["bluefissure", "housing"],
     "Punchline": "A housing tool",
     "DalamudApiLevel": 14,
+    "TestingDalamudApiLevel": 14,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
