@@ -53,6 +53,28 @@
     "DownloadLinkTesting": "https://github.com/Abyeon/WrongWarpFinder/releases/download/v0.0.1.8/latest.zip"
   },
   {
+    "Author": "Abyeon",
+    "Name": "RacingwayRewrite",
+    "InternalName": "RacingwayRewrite",
+    "AssemblyVersion": "0.0.0.2",
+    "Description": "RacingwayRewritten!",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "sample",
+      "plugin",
+      "goats"
+    ],
+    "DalamudApiLevel": 14,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Track your times in jump puzzles!",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Abyeon/RacingwayRewrite/releases/download/v0.0.0.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Abyeon/RacingwayRewrite/releases/download/v0.0.0.2/latest.zip"
+  },
+  {
     "Author": "Bluefissure",
     "Name": "HousingPos",
     "Description": "Automatically save/load the positions of housing furnitures.",
