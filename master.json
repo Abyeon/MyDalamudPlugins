@@ -56,7 +56,7 @@
     "Author": "Abyeon",
     "Name": "RacingwayRewrite",
     "InternalName": "RacingwayRewrite",
-    "AssemblyVersion": "0.0.0.2",
+    "AssemblyVersion": "0.0.0.3",
     "Description": "RacingwayRewritten!",
     "ApplicableVersion": "any",
     "Tags": [
@@ -71,8 +71,8 @@
     "LoadPriority": 0,
     "Punchline": "Track your times in jump puzzles!",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Abyeon/RacingwayRewrite/releases/download/v0.0.0.2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Abyeon/RacingwayRewrite/releases/download/v0.0.0.2/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Abyeon/RacingwayRewrite/releases/download/v0.0.0.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Abyeon/RacingwayRewrite/releases/download/v0.0.0.3/latest.zip"
   },
   {
     "Author": "Bluefissure",
