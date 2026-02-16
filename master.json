@@ -75,6 +75,28 @@
     "DownloadLinkTesting": "https://github.com/Abyeon/RacingwayRewrite/releases/download/v0.0.1.0/latest.zip"
   },
   {
+    "Author": "Abyeon",
+    "Name": "Buildingway",
+    "InternalName": "Buildingway",
+    "AssemblyVersion": "0.0.0.6",
+    "Description": "Build anything, anywhere. WoW housing is no longer something to be jealous of.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "housing",
+      "abyeon",
+      "util"
+    ],
+    "DalamudApiLevel": 14,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "/gamemode creative",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Abyeon/Buildingway/releases/download/v0.0.0.6/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Abyeon/Buildingway/releases/download/v0.0.0.6/latest.zip"
+  },
+  {
     "Author": "Bluefissure",
     "Name": "HousingPos",
     "Description": "Automatically save/load the positions of housing furnitures.",
