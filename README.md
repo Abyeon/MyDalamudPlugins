@@ -8,6 +8,7 @@ A custom dalamud repository for my plugins.
 ## Contains:
 + ~~[GameSenseXIV](https://github.com/Abyeon/GameSenseXIV)~~ Currently Outdated
 + [RacingwayRewrite](https://github.com/Abyeon/RacingwayRewrite) (this is an early rework of Racingway, expect large changes and bugs)
++ [Buildingway](https://github.com/Abyeon/Buildingway)
 + [WrongWarpFinder](https://github.com/Abyeon/WrongWarpFinder)
 + [HousingPos (Clone of Bluefissure's tool)](https://github.com/Abyeon/HousingPos)
 
