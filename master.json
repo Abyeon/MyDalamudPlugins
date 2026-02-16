@@ -78,7 +78,7 @@
     "Author": "Abyeon",
     "Name": "Buildingway",
     "InternalName": "Buildingway",
-    "AssemblyVersion": "0.0.0.6",
+    "AssemblyVersion": "0.0.0.7",
     "Description": "Build anything, anywhere. WoW housing is no longer something to be jealous of.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -93,8 +93,8 @@
     "LoadPriority": 0,
     "Punchline": "/gamemode creative",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Abyeon/Buildingway/releases/download/v0.0.0.6/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Abyeon/Buildingway/releases/download/v0.0.0.6/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Abyeon/Buildingway/releases/download/v0.0.0.7/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Abyeon/Buildingway/releases/download/v0.0.0.7/latest.zip"
   },
   {
     "Author": "Bluefissure",
