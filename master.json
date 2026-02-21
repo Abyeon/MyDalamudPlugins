@@ -94,7 +94,8 @@
     "Punchline": "/gamemode creative",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/Abyeon/Buildingway/releases/download/v1.0.0.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Abyeon/Buildingway/releases/download/v1.0.0.0/latest.zip"
+    "DownloadLinkTesting": "https://github.com/Abyeon/Buildingway/releases/download/v1.0.0.0/latest.zip",
+    "IconUrl": "https://github.com/Abyeon/Buildingway/blob/master/Data/icon.png?raw=true"
   },
   {
     "Author": "Bluefissure",
