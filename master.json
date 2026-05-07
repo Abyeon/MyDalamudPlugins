@@ -30,8 +30,8 @@
     "Author": "Abyeon",
     "Name": "WrongWarpFinder",
     "InternalName": "WrongWarpFinder",
-    "AssemblyVersion": "0.0.1.7",
-    "TestingAssemblyVersion": "0.0.1.7",
+    "AssemblyVersion": "0.0.1.9",
+    "TestingAssemblyVersion": "0.0.1.9",
     "Description": "A quick plugin to find Wrong Warps using Racingway rendering tools.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -41,16 +41,16 @@
       "Utility",
       "UI"
     ],
-    "DalamudApiLevel": 14,
-    "TestingDalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "Find Wrong Warps quick!",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Abyeon/WrongWarpFinder/releases/download/v0.0.1.8/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Abyeon/WrongWarpFinder/releases/download/v0.0.1.8/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Abyeon/WrongWarpFinder/releases/download/v0.0.1.9/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Abyeon/WrongWarpFinder/releases/download/v0.0.1.9/latest.zip"
   },
   {
     "Author": "Abyeon",
